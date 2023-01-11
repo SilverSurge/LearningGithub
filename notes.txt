@@ -1,0 +1,9 @@
+step 1:
+    initializing a git repository
+    $ git init
+
+    checking the status of the repository
+    $ git status 
+    it tells about what changes you made which are not tracked
+
+    

@@ -8,3 +8,9 @@ step 1:
 
     adding new files which were not added or any other changes
     $ git add {filename, dir}
+
+    commiting to the repository
+    $ git commit -m "the message regarding the changes"
+
+    removing something from status which will not be commited
+    $ git restore --stageed notes.txt

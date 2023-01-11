@@ -6,4 +6,5 @@ step 1:
     $ git status 
     it tells about what changes you made which are not tracked
 
-    
+    adding new files which were not added or any other changes
+    $ git add {filename, dir}

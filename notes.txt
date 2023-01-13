@@ -14,3 +14,7 @@ step 1:
 
     removing something from status which will not be commited
     $ git restore --stageed notes.txt
+
+    going back to a stage in past
+    $ git reset {the git hash id}
+    note: the deleted file will be still in status so check $ git status

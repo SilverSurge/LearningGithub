@@ -18,3 +18,20 @@ step 1:
     going back to a stage in past
     $ git reset {the git hash id}
     note: the deleted file will be still in status so check $ git status
+    
+    stash -> not comminting the recent changes but not loosing them
+    $ git stash
+
+    getting the stash back
+    $ git stash pop
+
+    clearing the stash
+    $ git stash clear 
+    
+    attaching a github repo
+    $ git remote add origin {url}
+
+    $ git remote -v
+
+    pushing to github
+    $ git push

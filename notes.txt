@@ -35,3 +35,12 @@ step 1:
 
     pushing to github
     $ git push
+
+    creating a branch
+    $ git branch {branchname}
+
+    going to that branch
+    $ git checkout {branchname}
+
+    merging branches
+    $ git merge {branchname}

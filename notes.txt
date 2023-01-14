@@ -44,3 +44,6 @@ step 1:
 
     merging branches
     $ git merge {branchname}
+
+    when you push to a new branch 
+    $ git push origin {newbranchname}
